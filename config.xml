@@ -1,0 +1,4 @@
+<feature name="debug-server" required="true">
+    <param name="domain" value="http://192.168.0.26:8080"/>
+    <param name="key" value="56744321609876"/>
+</feature>
